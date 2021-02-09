@@ -46,3 +46,38 @@
   height: 250px;
   border: 30px solid indigo;
 }
+
+.mountain {
+  width: 400px;
+  height: 250px;
+}
+
+.portugal {
+  width: 400px;
+  height: 250px;
+}
+
+.new-york {
+  width: 400px;
+  height: 250px;
+}
+
+.forest {
+  width: 400px;
+  height: 250px;
+}
+
+.headline-text-and-images {
+  border: 3px solid brown;
+}
+
+.landscape-and-location {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.footer {
+  background-color: pink;
+  text-align: center;
+  padding: 10px;
+}
