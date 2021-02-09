@@ -1,9 +1,9 @@
 #background {
-  background-color: azure
+  background-color: azure;
 }
 
 .header {
-  color: aliceblue
+  color: aliceblue;
 }
 
 .sticky-header {
@@ -17,7 +17,7 @@
   font-size: 25px;
 }
 
- .left-text {
+.left-text {
   position: absolute;
   top: 100px;
   width: 400px;
@@ -36,7 +36,7 @@
   width: 400px;
   height: 200px;
   border: 3px solid indigo;
-} 
+}
 
 .landscape {
   position: relative;
